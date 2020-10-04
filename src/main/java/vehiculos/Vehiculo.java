@@ -63,7 +63,7 @@ public class Vehiculo {
     }
 
     public static  int getCantidadVehiculos(){
-        return cantidadVehiculos/2;
+        return (cantidadVehiculos/2);
     }
 
     //setters
